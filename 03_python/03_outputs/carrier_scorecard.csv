@@ -1,0 +1,4 @@
+Carrier,Grade,Final_Score,Total_Orders,On_Time_Pct,Late_Pct,Avg_Delay,Avg_TPT,Avg_Rate
+V444_0,B — Good,70.0,6264,49.86,2.92,0.05,2.0,14.8379
+V444_1,B — Good,61.44,2097,45.54,0.43,0.01,1.05,15.3421
+V44_3,C — Average,40.0,854,32.67,0.0,0.0,1.29,
