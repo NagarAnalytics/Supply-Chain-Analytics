@@ -1,0 +1,68 @@
+﻿StoreKey,Country,State,Square_Meters,Open_Date,Store_Age_Years
+1,Australia,Australian Capital Territory,595,01-01-2008,18
+2,Australia,Northern Territory,665,12-01-2008,18
+3,Australia,South Australia,2000,07-01-2012,14
+4,Australia,Tasmania,2000,01-01-2010,16
+5,Australia,Victoria,2000,09-12-2015,10
+6,Australia,Western Australia,2000,01-01-2010,16
+7,Canada,New Brunswick,1105,07-05-2007,18
+8,Canada,Newfoundland and Labrador,2105,02-07-2014,11
+9,Canada,Northwest Territories,1500,04-03-2005,21
+10,Canada,Nunavut,1210,04-04-2015,10
+11,Canada,Yukon,1210,03-06-2009,16
+12,France,Basse-Normandie,350,06-06-2012,13
+13,France,Corse,245,07-06-2013,12
+14,France,Franche-Comté,350,15-12-2009,16
+15,France,La Réunion,400,01-01-2015,11
+16,France,Limousin,385,03-06-2010,15
+17,France,Martinique,350,08-07-2007,18
+18,France,Mayotte,310,08-08-2012,13
+19,Germany,Berlin,1295,04-04-2015,10
+20,Germany,Brandenburg,1715,15-12-2012,13
+21,Germany,Freie Hansestadt Bremen,560,03-06-2018,7
+22,Germany,Freistaat Thüringen,2000,06-03-2008,18
+23,Germany,Hamburg,1365,01-01-2010,16
+24,Germany,Hessen,1855,15-12-2012,13
+25,Germany,Mecklenburg-Vorpommern,1610,01-01-2010,16
+26,Germany,Saarland,350,05-03-2019,7
+27,Germany,Sachsen-Anhalt,2000,08-08-2008,17
+28,Italy,Caltanissetta,1200,15-12-2012,13
+29,Italy,Enna,1000,01-01-2008,18
+30,Italy,Pesaro,2100,12-01-2008,18
+31,Netherlands,Drenthe,1085,07-01-2012,14
+32,Netherlands,Flevoland,910,01-01-2010,16
+33,Netherlands,Friesland,1540,09-12-2015,10
+34,Netherlands,Groningen,1365,01-01-2010,16
+35,Netherlands,Zeeland,1225,07-05-2007,18
+36,United Kingdom,Armagh,1300,02-07-2014,11
+37,United Kingdom,Ayrshire,2100,04-03-2005,21
+38,United Kingdom,Belfast,1800,04-04-2015,10
+39,United Kingdom,Blaenau Gwent,2100,03-06-2009,16
+40,United Kingdom,Dungannon and South Tyrone,1300,06-06-2012,13
+41,United Kingdom,Fermanagh,2100,07-06-2013,12
+42,United Kingdom,North Down,1900,15-12-2009,16
+43,United States,Alaska,1190,01-01-2015,11
+44,United States,Arkansas,2000,03-06-2010,15
+45,United States,Connecticut,2000,08-07-2007,18
+46,United States,Delaware,1015,08-08-2012,13
+47,United States,Hawaii,1120,04-04-2015,10
+48,United States,Idaho,1540,15-12-2012,13
+49,United States,Iowa,2000,03-06-2018,7
+50,United States,Kansas,2000,06-03-2008,18
+51,United States,Maine,1295,01-01-2010,16
+52,United States,Mississippi,2000,03-06-2009,16
+53,United States,Montana,1260,06-06-2012,13
+54,United States,Nebraska,2000,07-06-2013,12
+55,United States,Nevada,2000,15-12-2009,16
+56,United States,New Hampshire,1260,01-01-2015,11
+57,United States,New Mexico,1645,03-06-2010,15
+58,United States,North Dakota,1330,08-07-2007,18
+59,United States,Oregon,2000,08-08-2012,13
+60,United States,Rhode Island,1260,04-04-2005,20
+61,United States,South Carolina,2000,15-12-2012,13
+62,United States,South Dakota,1120,03-06-2018,7
+63,United States,Utah,2000,06-03-2008,18
+64,United States,Washington DC,1330,01-01-2010,16
+65,United States,West Virginia,1785,01-01-2012,14
+66,United States,Wyoming,840,01-01-2014,12
+0,Online,Online,,01-01-2010,16
