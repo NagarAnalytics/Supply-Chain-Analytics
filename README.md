@@ -30,12 +30,11 @@ retailer across 6 years (2016-2021).
 
 ## 📁 Project Structure
 supply_chain_analytics/
-├── 01_data/          — Raw and cleaned datasets
-├── 02_excel/         — Power Query workbook
-├── 03_sql/           — Schema and queries
-├── 04_python/        — Analysis scripts
-├── 05_outputs/       — Charts and CSV exports
-└── 06_powerbi/       — Dashboard file
+├── 01_excel/         — Raw and cleaned datasets and Power Query workbooks
+├── 02_sql/           — Schema and queries
+├── 03_python/        — Analysis scripts
+├── 04_outputs/       — Charts and CSV exports
+└── 05_powerbi/       — Dashboard file
 
 ## 🗄️ SQL Analysis
 - 8 analytical queries
