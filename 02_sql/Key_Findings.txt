@@ -1,0 +1,11 @@
+1. On-time rate = 47.28% 
+2. Worst carrier = V444_0
+3. Top category = Computers
+4. Top continent = North America
+5. Best month = 2016(December), 2017(February), 2018(December), 2019(December), 2020(February), 2021(February)
+6. Highest margin product = DVD Storage Binder
+7. Most efficient warehouse = PLANT01,PLANT03
+8. Online vs In-Store revenue = $11,404,324.63 VS $44,351,154.96 
+9. 
+10.
+11.
